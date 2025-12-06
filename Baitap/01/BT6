@@ -1,0 +1,6 @@
+a = float(input("Nhap so thuc a: "))
+n = int(input("Nhap so mu n: "))
+
+ket_qua = a ** n
+
+print(f"Ket qua {a}^{n} = {int(ket_qua) if ket_qua.is_integer() else ket_qua}")
