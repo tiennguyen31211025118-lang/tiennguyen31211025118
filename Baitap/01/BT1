@@ -1,5 +1,5 @@
-***************************
-Truong: Dai Hoc UEH
-** Khoa: CNTT
-** Ho ten:
-***************************
+print("***************************")
+print("Truong: Dai Hoc UEH")
+print("** Khoa: CNTT")
+print("** Ho ten:")
+print("***************************")
