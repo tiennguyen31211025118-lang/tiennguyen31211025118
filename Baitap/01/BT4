@@ -1,0 +1,8 @@
+t = int(input("Nhap vao tong so giay: "))
+
+h = t // 3600
+m = (t % 3600) // 60
+s = (t % 3600) % 60
+
+print(f"{t} giay co dang {h}:{m}:{s}")
+
