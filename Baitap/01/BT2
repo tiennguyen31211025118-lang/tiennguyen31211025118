@@ -1,0 +1,7 @@
+R = float(input("Nhap ban kinh R: "))
+
+S = 3.14 * R * R
+P = 2 * 3.14 * R
+
+print(f"Dien tich S = {S:.1f}")
+print(f"Chu vi P = {P:.1f}")
